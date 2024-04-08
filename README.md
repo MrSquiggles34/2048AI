@@ -1,5 +1,5 @@
-2048 Game with AI Autoplay
-Found on Any's github. https://github.com/MrSquiggles34/2048AI
+AI Autoplay for the game 2048
+Found on Andy's github. https://github.com/MrSquiggles34/2048AI
 ===========
 Based on the popular game [2048](https://github.com/gabrielecirulli/2048) by Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. 
 
@@ -41,6 +41,6 @@ python game_2048.py
 Customization
 Adjust game parameters and AI algorithm settings in the constants.py and ai_2048.py files.
 
-The 2048 game in python was built by:
-- [Yanghun Tay](http://github.com/yangshun)
-- [Emmanuel Goh](http://github.com/emman27)
+The 2048 game in Python was built by:
+- [Yanghun Tay]
+- [Emmanuel Goh]
